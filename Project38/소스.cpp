@@ -4,7 +4,7 @@ int main(void)
 {
 	int data1 = 10, data2 = 20;
 	int sum = 0;
-	int* p;
+	int *p;
 
 	p = &data1;
 	*p = 100;
